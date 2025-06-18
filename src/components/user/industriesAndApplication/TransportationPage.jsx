@@ -1,7 +1,7 @@
 import React from 'react';
 import { HeroSection, NavigationTabs } from '../layouts/HeroSection';
 import styled from 'styled-components';
-import BgImage from "../../../assets/transportation.jpg";
+import BgImage from "../../../assets/Transportation.jpg";
 import Footer from "../../../components/user/Footer";
 import Navbar from "../../../components/user/layouts/Navbar";
 
