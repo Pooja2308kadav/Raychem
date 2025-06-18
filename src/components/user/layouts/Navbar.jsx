@@ -384,7 +384,7 @@ const Navbar = () => {
                 { to: "/electric-vehicle", img: electricVehicleImg, name: "Electric Vehicle" },
                 { to: "/oil-and-gas", img: oilimg, name: "Oil & Gas" },
                 { to: "/energy", img: energyimg, name: "Energy" },
-                { to: "/transportation", img: transportationimg, name: "Transportation" },
+                { to: "/tranportation", img: transportationimg, name: "Transportation" },
               ].map((industry) => (
                 <IndustryItem key={industry.to}>
                   <Link to={industry.to} aria-label={`View ${industry.name} industry`}>
@@ -564,7 +564,7 @@ const Navbar = () => {
                 { to: "/electric-vehicle", name: "Electric Vehicle" },
                 { to: "/oil-and-gas", name: "Oil & Gas" },
                 { to: "/energy", name: "Energy" },
-                { to: "/transportation", name: "Transportation" },
+                { to: "/tranportation", name: "Transportation" },
               ].map((industry) => (
                 <MobileNavItem key={industry.to}>
                   <MobileNavLink>
