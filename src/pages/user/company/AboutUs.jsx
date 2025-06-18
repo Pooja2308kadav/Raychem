@@ -5,7 +5,7 @@ import Navbar from '../../../components/user/layouts/Navbar2';
 import Footer from '../../../components/user/Footer';
 import AboutUS from '../../../assets/aboutus.jpg';
 import WelcomeImg from '../../../assets/welcomeimg.jpg';
-import VisionImg from '../../../assets/OurVision.jpg';
+import VisionImg from '../../../assets/Ourvision.jpg';
 import MissionImg from '../../../assets/vision.jpg';
 
 // Styled Components
