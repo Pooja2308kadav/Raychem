@@ -1,8 +1,8 @@
 import { useState, useEffect } from 'react';
 import styled from 'styled-components';
-import img1 from "../../assets/Newsslider1.png";
-import img2 from "../../assets/Newsslider2.jpg";
-import img3 from "../../assets/Newsslider3.png";
+import img1 from "../../assets/NewsSlider1.png";
+import img2 from "../../assets/NewsSlider2.jpg";
+import img3 from "../../assets/NewsSlider3.png";
 
 // All styled components and the main slider component in one file
 const SliderComponent = () => {
